@@ -532,4 +532,3 @@ local function stopBatAimbot()
         if att then att:Destroy() end
         
         local align = h:FindFirstChild("AimbotAlign")
-       
